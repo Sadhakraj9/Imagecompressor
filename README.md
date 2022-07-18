@@ -1,6 +1,6 @@
 # Imagecompressor
 
-Using tkinter library for UI of image compressor
+Using tkinter library for UI of image compressor/n
 First choose image by clicking on Select image from UI
 Now select the directory where you want to save your compressod image by clicking on Choose which folder to save
 Next by the help of bar You can select the quality of you image at which extend you want your image to be compress
